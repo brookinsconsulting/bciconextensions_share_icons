@@ -1,0 +1,23 @@
+{
+    "name": "brookinsconsulting/bciconextensions_share_icons",
+    "description": "eZ Publish Legacy extension which provides an example project's share icons",
+    "type": "ezpublish-legacy-extension",
+    "keywords": [ "eZ Publish", "eZ Publish Legacy", "eZ Publish Platform", "share", "icons", "icon", "crystal-admin", "extension" ],
+    "homepage": "https://github.com/brookinsconsulting/bciconextensions_share_icons",
+    "license": "GPL-2.0+",
+    "authors": [
+        {
+            "name" : "Brookins Consulting",
+            "homepage": "https://github.com/brookinsconsulting",
+            "role": "Owner"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.0.0",
+        "ezsystems/ezpublish-legacy-installer": "*"
+    },
+    "extra": {
+        "ezpublish-legacy-extension-name": "bciconextensions_share_icons"
+    }
+}
